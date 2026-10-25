@@ -1,0 +1,14 @@
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\bin\Debug\net10.0\Foundation1.exe
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\bin\Debug\net10.0\Foundation1.deps.json
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\bin\Debug\net10.0\Foundation1.runtimeconfig.json
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\bin\Debug\net10.0\Foundation1.dll
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\bin\Debug\net10.0\Foundation1.pdb
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.AssemblyInfoInputs.cache
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.AssemblyInfo.cs
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.csproj.CoreCompileInputs.cache
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.dll
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\refint\Foundation1.dll
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.pdb
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\Foundation1.genruntimeconfig.cache
+C:\Users\12088\OneDrive\Desktop\Final Project\Foundation1\obj\Debug\net10.0\ref\Foundation1.dll
